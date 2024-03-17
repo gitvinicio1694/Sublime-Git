@@ -1,6 +1,6 @@
 <?php
 
-$nombre = "Vinicio";
+$nombre = "Ismael";
 
 echo "Biemvenido ha GIT";
 echo "<br>";
